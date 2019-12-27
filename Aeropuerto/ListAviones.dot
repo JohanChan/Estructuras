@@ -1,0 +1,18 @@
+digraph listadoble{
+node [shape=box color = blue];
+rankdir=LR
+nodo3bf8fd06[label="Turno: 1"];
+nodo3bf8fd06->nodo39a7596a;
+nodo39a7596a->nodo3bf8fd06;
+nodo39a7596a[label="Turno: 1"];
+nodo39a7596a->nodo2e64947e;
+nodo2e64947e->nodo39a7596a;
+nodo2e64947e[label="Turno: 2"];
+nodo2e64947e->nodo5127ec58;
+nodo5127ec58->nodo2e64947e;
+nodo5127ec58[label="Turno: 3"];
+nodo5127ec58->nodo2dcb3bb7;
+nodo2dcb3bb7->nodo5127ec58;
+nodo2dcb3bb7[label="Turno: 1"];
+
+}

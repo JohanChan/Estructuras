@@ -1,0 +1,6 @@
+digraph listapasajeros{
+rankdir=UD
+node [margin=0 fontcolor=blue fontsize=15 width=1 shape=oval style=filled
+nodo22950669[label="Pasajeros 9"];	nodo2043985146[label="Pasajeros 32"];	nodo22950669->nodo2043985146;	nodo739078459[label="Pasajeros 30"];	nodo2043985146->nodo739078459;	nodo152079049[label="Pasajeros 5"];	nodo739078459->nodo152079049;	nodo2032539325[label="Pasajeros 10"];	nodo152079049->nodo2032539325;	
+
+ }

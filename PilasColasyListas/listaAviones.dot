@@ -1,0 +1,6 @@
+digraph listaAviones{
+rankdir=DU
+node [margin=0 fontcolor=blue fontsize=15 width=1 shape=oval style=filled
+nodo1874978686[label="Avion 3"];	nodo647731141[label="Avion 3"];	nodo1874978686->nodo647731141;	nodo1233994807[label="Avion 1"];	nodo647731141->nodo1233994807;	
+
+ }

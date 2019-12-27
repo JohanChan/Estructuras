@@ -1,0 +1,18 @@
+digraph listaEscritorios{
+node [shape=box];
+rankdir=LR
+nodo1bb200ef[label="Escritorio: D"];
+nodo1bb200ef->nodo4d6200ca;
+nodo4d6200ca->nodo1bb200ef;
+nodo4d6200ca[label="Escritorio: R"];
+nodo4d6200ca->nodo4e99178d;
+nodo4e99178d->nodo4d6200ca;
+nodo4e99178d[label="Escritorio: O"];
+nodo4e99178d->nodo4624d2ad;
+nodo4624d2ad->nodo4e99178d;
+nodo4624d2ad[label="Escritorio: X"];
+nodo4624d2ad->nodo4d1a07fe;
+nodo4d1a07fe->nodo4624d2ad;
+nodo4d1a07fe[label="Escritorio: B"];
+
+}

@@ -1,0 +1,7 @@
+digraph listaAviones{
+rankdir=LR
+node [margin=0 fontcolor=blue fontsize=15 width=1 shape=box style=filled
+nodo2026889725[label="1"];
+nodo416617357[label="2"];	nodo2026889725->nodo416617357;	nodo1644858093[label="3"];	nodo416617357->nodo1644858093;	nodo1090897511[label="4"];	nodo1644858093->nodo1090897511;	
+
+ }
